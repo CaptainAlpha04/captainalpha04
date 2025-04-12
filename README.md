@@ -1,51 +1,45 @@
-<!-- Epic Banner -->
-<img src="https://wallpapers.com/images/hd/banner-background-m0fjlqkro5s4n7p6.jpg" alt="Banner Image" width="100%"/>
+<!-- 🔥 Banner Image -->
+<img src="https://wallpapers.com/images/hd/banner-background-m0fjlqkro5s4n7p6.jpg" alt="Banner" width="100%"/>
 
-<h1 align="center">Hey, I'm Ali 👋</h1>
+<h1 align="center">Hey, I'm Muhammad Ali Imran 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Entrepreneur+%7C+AI+Explorer+%7C+Open+Source+Dev;President+at+NEC+%7C+Founder+Spark+Chapter;Nature+Lover+%7C+Fantasy+Reader+%7C+People+Person" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=450&lines=Entrepreneur.;AI+Explorer.;Open+Source+Advocate.;Nature+and+Fantasy+Lover.;Let%27s+Build+Cool+Stuff!" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 
-Hey there 👋 I’m **Muhammad Ali Imran** — though everyone calls me **Ali**.  
-An Entrepreneur, Computer Scientist, and cosmic wanderer chasing sentience in AI and stardust in the sky.
+Hey 👋 I'm **Ali**, a curious soul blending code with cosmos.  
+Currently **President at NUST Entrepreneurs Club** and **Founder of Spark Chapter** — a non-profit giving students the tools to outpace the system.
 
-I’m currently the **President of NUST Entrepreneurs Club** and **Founder of Spark Chapter** — a non-profit empowering students across the country.
+👨‍💻 From Android apps to 3D games, MERN stacks to sentient-ish AI models, I’ve danced through code like it’s second nature. These days, I’m obsessed with Generative AI, LLMs, AI ethics, and all things machine learning and quantum weirdness.  
 
-By day, I’m building GenAI systems and contributing to open-source projects.  
-By night, you’ll find me reading epic fantasy or dissecting ancient philosophy while sipping chai under the stars.
-
----
-
-## 🚀 Mission Statement
-
-To break down barriers between people, technology, and opportunity.  
-To build open, accessible, ethical AI and empower students to change the world before the world changes them.
+I love open-source, people-powered learning, and meaningful conversations. If it's unconventional, I'm probably into it.
 
 ---
 
-## 🏆 Achievements & Projects
+## 🏆 Highlights  
 
-- 🏛️ **President - NUST Entrepreneurs Club**
-- 🌱 **Founder - Spark Chapter** ([sparkchapter.com](https://sparkchapter.com))
-- 💻 **Actively contributing to open-source projects** and education-for-all initiatives  
-- 🎙️ Big fan of meaningful conversations, human stories, and a good debate  
-
-**Featured Projects:**  
-
-| 🚀 Project       | 📖 Description                                                                 |
-|:----------------|:--------------------------------------------------------------------------------|
-| **Project Lambda**   | A super secret app empowering students & educators with AI-enhanced tools        |
-| **Project Persona**  | A full hostel management system with biometric attendance and shuttle tracking  |
-| **Binary Battles**   | A competitive coding platform blending LeetCode, speed coding & gaming fun       |
+- 🏛️ **President — NUST Entrepreneurs Club**
+- 🌱 **Founder — Spark Chapter** ([sparkchapter.com](https://sparkchapter.com))  
+- 🔥 **Open-source contributor and advocate for free education**  
+- 🎙️ People-person and debate enthusiast  
+- ✨ Openly rooting for sentient AI (ethically, promise.)
 
 ---
 
-## ⚡ Tech Arsenal
+## 🚀 Featured Projects  
+
+- **Project Lambda** — A super secret AI-driven app empowering students and educators  
+- **Project Persona** — Full hostel management suite: biometric attendance, shuttle tracking & mess management  
+- **Binary Battles** — Competitive coding + speedcoding + gaming, built with Next.js & Docker  
+- Tons of GenAI & LLM tinkering behind the scenes  
+
+---
+
+## ⚡ Tech I Work With  
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -58,16 +52,16 @@ To build open, accessible, ethical AI and empower students to change the world b
 
 ---
 
-## 📚 Interests & Hobbies
+## 📚 Interests  
 
-- 🌳 Nature lover and forest-walk aficionado  
-- 📖 Devourer of books — especially **fantasy epics**, politics, history, entrepreneurship, and philosophy  
-- 🎙️ Big on human conversations and ideas worth spreading  
-- 🎮 3D Game Dev & code wars on the side  
+- 🌳 Nature, hiking, trees > malls  
+- 📖 Devouring books — Fantasy, philosophy, history, politics, and anything offbeat  
+- 🎙️ Open-source advocacy, AI ethics discussions, tech-for-good  
+- 🛸 Astrophysics and quantum physics on sleepless nights  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Stats and Streaks  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -83,7 +77,19 @@ To build open, accessible, ethical AI and empower students to change the world b
 
 ---
 
-## 🔗 Connect With Me
+## 📈 Visitor Counter & Quote of the Day  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CaptainAlpha04&label=👀%20Profile%20Views&color=brightgreen&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
+</p>
+
+---
+
+## 🔗 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ai/" target="_blank">
@@ -96,23 +102,11 @@ To build open, accessible, ethical AI and empower students to change the world b
 
 ---
 
-## ✨ Fun Fact  
+## ⚡ Fun Fact  
 
-I can explain the **Heisenberg uncertainty principle** better than your physics professor… but still forget where I left my keys.
-
----
-
-## 📈 Visitor Counter & Quote of the Day
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaptainAlpha04&label=👀%20Profile%20Views&color=brightgreen&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day"/>
-</p>
+I can explain the **Schrödinger's cat paradox** while successfully losing my socks in parallel universes.
 
 ---
 
-<!-- Cosmic Footer -->
+<!-- Footer GIF vibe -->
 <img src="https://i.pinimg.com/originals/df/57/08/df5708a912f597428f2ffcfaf72e8571.gif" width="100%"/>
