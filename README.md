@@ -1,5 +1,11 @@
-<!-- 🔥 Banner Image -->
+<!-- 🌌 Banner -->
 <img src="https://wallpapers.com/images/hd/banner-background-m0fjlqkro5s4n7p6.jpg" alt="Banner" width="100%"/>
+
+<!-- 🌠 Cosmic Quote -->
+<p align="center">
+  <i>"Somewhere, something incredible is waiting to be known."</i>
+  <br>— Carl Sagan
+</p>
 
 <h1 align="center">Hey, I'm Muhammad Ali Imran 👋</h1>
 
@@ -12,11 +18,11 @@
 ## 🌟 About Me  
 
 Hey 👋 I'm **Ali**, a curious soul blending code with cosmos.  
-Currently **President at NUST Entrepreneurs Club** and **Founder of Spark Chapter** — a non-profit giving students the tools to outpace the system.
+Currently **President at NUST Entrepreneurs Club** and **Founder of Spark Chapter** — a non-profit empowering students to shatter glass ceilings.
 
-👨‍💻 From Android apps to 3D games, MERN stacks to sentient-ish AI models, I’ve danced through code like it’s second nature. These days, I’m obsessed with Generative AI, LLMs, AI ethics, and all things machine learning and quantum weirdness.  
+👨‍💻 From Android apps to 3D games, MERN stacks to sentient AI models, I’ve dived headfirst into all kinds of code. Now I’m obsessed with **Generative AI**, **LLMs**, **AI ethics**, and **quantum weirdness**.  
 
-I love open-source, people-powered learning, and meaningful conversations. If it's unconventional, I'm probably into it.
+Big fan of open-source, people-powered learning, and meaningful conversations. If it’s unconventional, I’m already interested.
 
 ---
 
@@ -24,89 +30,29 @@ I love open-source, people-powered learning, and meaningful conversations. If it
 
 - 🏛️ **President — NUST Entrepreneurs Club**
 - 🌱 **Founder — Spark Chapter** ([sparkchapter.com](https://sparkchapter.com))  
-- 🔥 **Open-source contributor and advocate for free education**  
-- 🎙️ People-person and debate enthusiast  
-- ✨ Openly rooting for sentient AI (ethically, promise.)
+- 💻 Open-source contributor and AI-for-good advocate  
+- 🎙️ Conversations over coffee enthusiast  
+- 🌍 Believer in accessible knowledge and tech-for-change
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects  
 
-- **Project Lambda** — A super secret AI-driven app empowering students and educators  
-- **Project Persona** — Full hostel management suite: biometric attendance, shuttle tracking & mess management  
-- **Binary Battles** — Competitive coding + speedcoding + gaming, built with Next.js & Docker  
-- Tons of GenAI & LLM tinkering behind the scenes  
+🌀 **Project Lambda**  
+*A mysterious, super secret AI-driven app for students and educators. Coming soon to disrupt classrooms and universities.*
 
----
+🏠 **Project Persona**  
+*A full-stack hostel management system with biometric attendance, real-time shuttle tracking, mess management, and more.*
 
-## ⚡ Tech I Work With  
+⚔️ **Binary Battles**  
+*Next.js + Docker-powered competitive coding battles. Think speedcoding meets LeetCode meets Fortnite — minus the 12-year-olds screaming.*
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FFB703?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🧠 Tons of **Generative AI experiments** and **open-source LLM projects** brewing quietly.
 
 ---
 
 ## 📚 Interests  
 
-- 🌳 Nature, hiking, trees > malls  
-- 📖 Devouring books — Fantasy, philosophy, history, politics, and anything offbeat  
-- 🎙️ Open-source advocacy, AI ethics discussions, tech-for-good  
-- 🛸 Astrophysics and quantum physics on sleepless nights  
-
----
-
-## 📈 Stats and Streaks  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainAlpha04&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## 📈 Visitor Counter & Quote of the Day  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaptainAlpha04&label=👀%20Profile%20Views&color=brightgreen&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
-</p>
-
----
-
-## 🔗 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://ali.sparkchapter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact  
-
-I can explain the **Schrödinger's cat paradox** while successfully losing my socks in parallel universes.
-
----
-
-<!-- Footer GIF vibe -->
-<img src="https://i.pinimg.com/originals/df/57/08/df5708a912f597428f2ffcfaf72e8571.gif" width="100%"/>
+- 🌳 Nature hikes > malls  
+- 📖 Fantasy sagas, philosophy, politics, history  
+- 🎙
