@@ -11,9 +11,9 @@
 ## 🌟 About Me
 
 Hey there, fellow wanderer of the digital cosmos 👋  
-I'm **Muhammad**, an entrepreneur and passionate Computer Science undergraduate from **NUST (Class of 2023)**. I’m someone who believes the next great frontier isn't across oceans or skies — it’s inside silicon minds and quantum echoes.
+I'm **Muhammad Ali Imran**, an entrepreneur and passionate Computer Science undergraduate from **NUST (Class of 2023)**. I’m someone who believes the next great frontier isn't across oceans or skies — it’s inside silicon minds and quantum echoes.
 
-My roots? **Android Development**, **Unity 3D Game Dev**, **MERN Stack**.  
+My roots? **Android Development**, **Unity 3D Game Dev**, **Web Development**.  
 My now? **AI, LLMs, GenAI Systems, and Quantum Computing**.  
 
 Crafting AI that doesn’t just *reply* — it *responds*.
