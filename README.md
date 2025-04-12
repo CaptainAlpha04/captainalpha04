@@ -1,5 +1,5 @@
 <!-- Cosmic-Tech banner -->
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79d6f062707971.5aab0804b361d.gif" alt="Cosmic Tech Banner" width="100%"/>
+<img src="https://wallpapers.com/images/hd/banner-background-m0fjlqkro5s4n7p6.jpg" alt="Cosmic Tech Banner" width="100%"/>
 
 # 👨‍🚀 Muhammad A.I. — *Chasing Code, Stars, and Sentience*
 
