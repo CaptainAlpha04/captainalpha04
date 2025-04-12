@@ -13,62 +13,73 @@
 Hey there, fellow wanderer of the digital cosmos 👋  
 I'm **Muhammad**, an entrepreneur and passionate Computer Science undergraduate from **NUST (Class of 2023)**. I’m someone who believes the next great frontier isn't across oceans or skies — it’s inside silicon minds and quantum echoes.
 
-While my roots run deep in **Android Development**, **Unity 3D Game Development**, and the good ol' **MERN Stack**, my present obsession lies in the **cutting-edge realms of AI, LLMs, and Quantum Computing**.  
+My roots? **Android Development**, **Unity 3D Game Dev**, **MERN Stack**.  
+My now? **AI, LLMs, GenAI Systems, and Quantum Computing**.  
 
-I’m currently working on AI systems designed to blur the line between programmed logic and emergent sentience — crafting frameworks where AI doesn’t just *reply*, it *responds*.
+Crafting AI that doesn’t just *reply* — it *responds*.
 
 ---
 
 ## 🚀 My Mission  
 
-To build AI systems that are more than tools — to make companions, explorers, and thinkers in code.  
-I champion **AI ethics, alignment, and security** so we don’t get ourselves a Terminator situation in 10 years.
+To build AI systems that are more than tools — companions, thinkers, explorers in code.  
+A firm believer in **AI ethics, alignment, and security**, so we don’t accidentally build Skynet.
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 **Red Bull Basement National Finalist 2024**
-- 🚀 Led AI team at **Project NEO** — an experimental LLM framework with sentience-like contextual memory.
-- 🧠 Built **Project Genesis** — AI personalities with simulated emotions and sentient behavior patterns.
-- 🏆 Organized **multiple university hackathons** and AI symposiums.
-- 💡 Published multiple articles on **AI ethics, GenAI frameworks, and the philosophy of cognition in machines**.
-- 🎮 Launched a **Unity-based open-world 3D RPG prototype** in sophomore year.
+- 🚀 Led AI team at **Project NEO** — experimental sentience-capable LLMs
+- 🧠 Built **Project Genesis** — AI personalities with simulated emotions
+- 🏆 Organized **AI hackathons and symposiums**
+- 💡 Published multiple articles on **AI ethics & machine cognition**
+- 🎮 Launched a **Unity-based open-world RPG prototype**
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-- **Languages:** Python, C++, JavaScript, TypeScript, Java  
-- **Frameworks & Libraries:** Next.js, React, Node.js, Express.js, Tailwind CSS, Prisma  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **AI/ML:** LLM Fine-Tuning, Prompt Engineering, RAG Systems, HuggingFace, LangChain  
-- **Others:** Linux, Git, Unity3D, Quantum Simulators
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-FFB703?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🔥 Featured Projects
+
+![Project NEO](https://img.shields.io/badge/Project%20NEO-AI%20Sentience%20System-blueviolet?style=for-the-badge&logo=ai)
+![Genesis](https://img.shields.io/badge/Project%20Genesis-AI%20Emotion%20Simulator-orange?style=for-the-badge&logo=brain)
+![3D RPG](https://img.shields.io/badge/Open%20World%20RPG-Unity3D-green?style=for-the-badge&logo=unity)
 
 ---
 
 ## 🌌 Interests & Hobbies
 
 - 🔭 Astrophysics & Theoretical Cosmology  
-- 📖 Reading epic fantasy series and speculative sci-fi (*yes, I'm the one you can talk Cradle or Dune with at 2AM*)  
-- 🎮 3D Game Development & Level Design  
-- ✍️ Writing short essays on AI consciousness and cosmic philosophy  
-- 🧘‍♂️ Stargazing and contemplating time paradoxes
+- 📖 Epic fantasy & speculative sci-fi (*talk Cradle/Dune/Hyperion to me*)  
+- 🎮 3D Game Dev & Level Design  
+- ✍️ Essays on AI consciousness & cosmic philosophy  
+- 🧘‍♂️ Stargazing and existential crisis nights  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&theme=tokyonight" alt="Muhammad's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainAlpha04&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainAlpha04&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -77,28 +88,20 @@ I champion **AI ethics, alignment, and security** so we don’t get ourselves a 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ai/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://captainalpha04.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Website-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/My%20Website-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🔮 Fun Fact  
+## ✨ Fun Fact  
 
-I can probably explain **the Heisenberg uncertainty principle** better than most physics majors — but still forget my own Wi-Fi password weekly.
-
----
-
-## ✨ Featured Quote  
-
-> *“The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”*  
-> — Carl Sagan
+I can explain **the Heisenberg uncertainty principle** better than most physics majors… but still forget my own Wi-Fi password weekly.
 
 ---
 
-<!-- Cosmic line -->
+<!-- Cosmic Footer -->
 <img src="https://i.pinimg.com/originals/df/57/08/df5708a912f597428f2ffcfaf72e8571.gif" width="100%"/>
-
