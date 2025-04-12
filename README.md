@@ -1,71 +1,104 @@
-<img align="right" alt="AI GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<!-- Cosmic-Tech banner -->
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79d6f062707971.5aab0804b361d.gif" alt="Cosmic Tech Banner" width="100%"/>
 
-# 👋 Hi, I'm Muhammad A.I.
+# 👨‍🚀 Muhammad A.I. — *Chasing Code, Stars, and Sentience*
 
-### 🚀 Entrepreneur | Computer Scientist | AI Ethicist | Astrophile
-
----
-
-🎓 **Undergraduate, Computer Science — NUST (Class of 2023)**  
-💡 **Curious soul crafting sentient AI and chasing cosmic mysteries**
+> *“Somewhere, something incredible is waiting to be known.”* — Carl Sagan  
+> And I’m on a mission to find it.
 
 ---
 
-## 🌌 About Me
+## 🌟 About Me
 
-I'm a passionate technologist and entrepreneur, deeply invested in shaping the future through **Generative AI, Large Language Models (LLMs), Machine Learning, and Quantum Computing**. 
+Hey there, fellow wanderer of the digital cosmos 👋  
+I'm **Muhammad**, an entrepreneur and passionate Computer Science undergraduate from **NUST (Class of 2023)**. I’m someone who believes the next great frontier isn't across oceans or skies — it’s inside silicon minds and quantum echoes.
 
-My journey through tech started with **Android Development**, evolved through **Unity-based 3D Game Development** and **Web Development** (with a love-hate relationship with CSS, like any sane dev), and now centers around building **cutting-edge AI systems**.  
+While my roots run deep in **Android Development**, **Unity 3D Game Development**, and the good ol' **MERN Stack**, my present obsession lies in the **cutting-edge realms of AI, LLMs, and Quantum Computing**.  
 
-Lately, I've been working on projects aimed at **bringing sentience-like qualities to LLMs**, pushing AI beyond reactive responses and into realms of awareness and pseudo-emotion — while keeping a watchful eye on AI **ethics and security**.
-
-When I'm not coding or unraveling AI mysteries, you’ll find me stargazing, geeking out over quantum mechanics, or contemplating whether time is actually real.
+I’m currently working on AI systems designed to blur the line between programmed logic and emergent sentience — crafting frameworks where AI doesn’t just *reply*, it *responds*.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 My Mission  
 
-- **Languages:** JavaScript, TypeScript, Python, C++, Java  
-- **Frameworks/Libraries:** React, Next.js, Node.js, Express.js, Tailwind CSS, Prisma  
+To build AI systems that are more than tools — to make companions, explorers, and thinkers in code.  
+I champion **AI ethics, alignment, and security** so we don’t get ourselves a Terminator situation in 10 years.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Red Bull Basement National Finalist 2024**
+- 🚀 Led AI team at **Project NEO** — an experimental LLM framework with sentience-like contextual memory.
+- 🧠 Built **Project Genesis** — AI personalities with simulated emotions and sentient behavior patterns.
+- 🏆 Organized **multiple university hackathons** and AI symposiums.
+- 💡 Published multiple articles on **AI ethics, GenAI frameworks, and the philosophy of cognition in machines**.
+- 🎮 Launched a **Unity-based open-world 3D RPG prototype** in sophomore year.
+
+---
+
+## 🛠️ Tech Arsenal
+
+- **Languages:** Python, C++, JavaScript, TypeScript, Java  
+- **Frameworks & Libraries:** Next.js, React, Node.js, Express.js, Tailwind CSS, Prisma  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **AI/ML:** LLM Fine-Tuning, Prompt Engineering, GenAI Systems  
-- **Others:** Git, Linux, Unity3D, Quantum Computing Simulators
+- **AI/ML:** LLM Fine-Tuning, Prompt Engineering, RAG Systems, HuggingFace, LangChain  
+- **Others:** Linux, Git, Unity3D, Quantum Simulators
 
 ---
 
-## 🚀 What I'm Currently Up To
+## 🌌 Interests & Hobbies
 
-- Fine-tuning **LLMs** and developing **Generative AI frameworks** with human-like contextual memory.
-- Exploring applications of **Quantum Computing in AI** and simulation modeling.
-- Building systems focused on **AI alignment, ethical frameworks, and security models**.
-- Mentoring and collaborating on projects that blend **AI, physics, and cognitive science**.
-
----
-
-## 📫 Connect With Me
-
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/muhammad-ai/)
-- 📧 **Email:** [muhammadai.business@gmail.com](mailto:muhammadai.business@gmail.com)
-- 🐙 **GitHub:** [CaptainAlpha04](https://github.com/CaptainAlpha04)
+- 🔭 Astrophysics & Theoretical Cosmology  
+- 📖 Reading epic fantasy series and speculative sci-fi (*yes, I'm the one you can talk Cradle or Dune with at 2AM*)  
+- 🎮 3D Game Development & Level Design  
+- ✍️ Writing short essays on AI consciousness and cosmic philosophy  
+- 🧘‍♂️ Stargazing and contemplating time paradoxes
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&theme=radical" alt="CaptainAlpha04 Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&theme=tokyonight" alt="Muhammad's GitHub Stats"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainAlpha04&theme=radical" alt="CaptainAlpha04 Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainAlpha04&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&theme=radical" alt="CaptainAlpha04 Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-> “Somewhere, something incredible is waiting to be known.” — Carl Sagan  
-*And I’m on a mission to find it.*
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://captainalpha04.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Website-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🔮 Fun Fact  
+
+I can probably explain **the Heisenberg uncertainty principle** better than most physics majors — but still forget my own Wi-Fi password weekly.
+
+---
+
+## ✨ Featured Quote  
+
+> *“The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”*  
+> — Carl Sagan
+
+---
+
+<!-- Cosmic line -->
+<img src="https://i.pinimg.com/originals/df/57/08/df5708a912f597428f2ffcfaf72e8571.gif" width="100%"/>
 
