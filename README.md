@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=450&lines=Entrepreneur.;AI+Explorer.;Open+Source+Advocate.;Nature+and+Fantasy+Lover.;Let%27s+Build+Cool+Stuff!" alt="Typing SVG"/>
 </p>
 
----
+ 
 
 ## 🌟 About Me  
 
@@ -18,7 +18,7 @@ Currently **President at NUST Entrepreneurs Club** and **Founder of Spark Chapte
 
 I love open-source, people-powered learning, and meaningful conversations. If it's unconventional, I'm probably into it.
 
----
+ 
 
 ## 🏆 Highlights  
 
@@ -28,7 +28,7 @@ I love open-source, people-powered learning, and meaningful conversations. If it
 - 🎙️ People-person and debate enthusiast  
 - ✨ Openly rooting for sentient AI (ethically, promise.)
 
----
+ 
 
 ## 🚀 Featured Projects  
 
@@ -37,7 +37,7 @@ I love open-source, people-powered learning, and meaningful conversations. If it
 - **Binary Battles** — Competitive coding + speedcoding + gaming, built with Next.js & Docker  
 - Tons of GenAI & LLM tinkering behind the scenes  
 
----
+ 
 
 ## ⚡ Tech I Work With  
 
@@ -50,7 +50,7 @@ I love open-source, people-powered learning, and meaningful conversations. If it
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+ 
 
 ## 📚 Interests  
 
@@ -59,7 +59,7 @@ I love open-source, people-powered learning, and meaningful conversations. If it
 - 🎙️ Open-source advocacy, AI ethics discussions, tech-for-good  
 - 🛸 Astrophysics and quantum physics on sleepless nights  
 
----
+ 
 
 ## 📈 Stats and Streaks  
 
@@ -75,7 +75,7 @@ I love open-source, people-powered learning, and meaningful conversations. If it
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
----
+ 
 
 ## 📈 Visitor Counter & Quote of the Day  
 
@@ -87,7 +87,7 @@ I love open-source, people-powered learning, and meaningful conversations. If it
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
 </p>
 
----
+ 
 
 ## 🔗 Connect With Me  
 
@@ -100,13 +100,13 @@ I love open-source, people-powered learning, and meaningful conversations. If it
   </a>
 </p>
 
----
+ 
 
 ## ⚡ Fun Fact  
 
 I can explain the **Schrödinger's cat paradox** while successfully losing my socks in parallel universes.
 
----
+ 
 
 <!-- Footer GIF vibe -->
 <img src="https://i.pinimg.com/originals/df/57/08/df5708a912f597428f2ffcfaf72e8571.gif" width="100%"/>
