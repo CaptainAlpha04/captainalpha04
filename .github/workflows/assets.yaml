@@ -23,6 +23,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Fix dist/ ownership
+        # Platane/snk runs as root inside a Docker container, so it creates dist/
+        # owned by root — the non-root runner user can't create new files in it
+        # without this.
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
