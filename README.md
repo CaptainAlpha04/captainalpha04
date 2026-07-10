@@ -24,6 +24,14 @@ $ whoami
 
 <br/>
 
+### 🧑‍🚀 Pilot Dossier
+
+<div align="center">
+<img src="https://github.com/CaptainAlpha04/captainalpha04/blob/output/pilot-dossier.svg" width="100%" alt="pilot dossier"/>
+</div>
+
+<br/>
+
 ### ⚙️ Stack
 
 <div align="center">
@@ -53,6 +61,22 @@ $ whoami
 
 <br/>
 
+### 📡 Mission Telemetry
+
+<div align="center">
+<img src="https://github.com/CaptainAlpha04/captainalpha04/blob/output/mission-telemetry.svg" width="100%" alt="mission telemetry"/>
+</div>
+
+<br/>
+
+### 🛰️ Mission Log
+
+<div align="center">
+<img src="https://github.com/CaptainAlpha04/captainalpha04/blob/output/mission-log.svg" width="100%" alt="mission log"/>
+</div>
+
+<br/>
+
 ### 🐍 Snake, eating my commits
 
 <div align="center">
@@ -62,20 +86,7 @@ $ whoami
 
 <br/>
 
-### 📊 Signal
-
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&hide_border=true&theme=radical&bg_color=0a0420&title_color=7c5cff&icon_color=9be8ff&text_color=d9d4ff"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&hide_border=true&theme=radical&bg_color=0a0420&title_color=7c5cff&text_color=d9d4ff"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainAlpha04&hide_border=true&background=0a0420&ring=7c5cff&fire=ffb454&currStreakLabel=d9d4ff"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0420,100:1b0f3d&height=90&section=footer"/>
+<img src="https://github.com/CaptainAlpha04/captainalpha04/blob/output/signal-footer.svg" width="100%" alt="signal footer"/>
 </div>
 
