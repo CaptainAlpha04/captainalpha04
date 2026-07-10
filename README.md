@@ -1,112 +1,80 @@
-<!-- 🔥 Banner Image -->
-<img src="https://wallpapers.com/images/hd/banner-background-m0fjlqkro5s4n7p6.jpg" alt="Banner" width="100%"/>
+<div align="center">
 
-<h1 align="center">Hey, I'm Muhammad Ali Imran 👋</h1>
+<img src="./assets/pixel-banner.svg" width="100%" alt="banner"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=450&lines=Entrepreneur.;AI+Explorer.;Open+Source+Advocate.;Nature+and+Fantasy+Lover.;Let%27s+Build+Cool+Stuff!" alt="Typing SVG"/>
-</p>
+<br/>
 
- 
+<a href="https://github.com/CaptainAlpha04">
+  <img src="https://img.shields.io/badge/GitHub-CaptainAlpha04-7c5cff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-ai/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7c5cff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🌟 About Me  
+</div>
 
-Hey 👋 I'm **Ali**, a curious soul blending code with cosmos.  
-Currently **President at NUST Entrepreneurs Club** and **Founder of Spark Chapter** — a non-profit giving students the tools to outpace the system.
+<br/>
 
-👨‍💻 From Android apps to 3D games, MERN stacks to sentient-ish AI models, I’ve danced through code like it’s second nature. These days, I’m obsessed with Generative AI, LLMs, AI ethics, and all things machine learning and quantum weirdness.  
+```txt
+$ whoami
+> Senior Software Engineer & Systems Architect.
+> I ship AI-native products and then interrogate them about free will.
+> Currently arguing with a compiler and a theologian, simultaneously.
+```
 
-I love open-source, people-powered learning, and meaningful conversations. If it's unconventional, I'm probably into it.
+<br/>
 
- 
+### ⚙️ Stack
 
-## 🏆 Highlights  
+<div align="center">
 
-- 🏛️ **President — NUST Entrepreneurs Club**
-- 🌱 **Founder — Spark Chapter** ([sparkchapter.com](https://sparkchapter.com))  
-- 🔥 **Open-source contributor and advocate for free education**  
-- 🎙️ People-person and debate enthusiast  
-- ✨ Openly rooting for sentient AI (ethically, promise.)
+![Python](https://img.shields.io/badge/-Python-0a0420?style=flat-square&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0a0420?style=flat-square&logo=typescript&logoColor=3178C6)
+![C++](https://img.shields.io/badge/-C++-0a0420?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-0a0420?style=flat-square&logo=csharp&logoColor=9B4993)
+![Next.js](https://img.shields.io/badge/-Next.js-0a0420?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-0a0420?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0a0420?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Firebase](https://img.shields.io/badge/-Firebase-0a0420?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/-Supabase-0a0420?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Redis](https://img.shields.io/badge/-Redis-0a0420?style=flat-square&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/-Docker-0a0420?style=flat-square&logo=docker&logoColor=2496ED)
+![Unity](https://img.shields.io/badge/-Unity-0a0420?style=flat-square&logo=unity&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-0a0420?style=flat-square&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-0a0420?style=flat-square&logo=googlecloud&logoColor=4285F4)
 
- 
+</div>
 
-## 🚀 Featured Projects  
+### 🌌 Wired into
 
-- **Project Lambda** — A super secret AI-driven app empowering students and educators  
-- **Project Persona** — Full hostel management suite: biometric attendance, shuttle tracking & mess management  
-- **Binary Battles** — Competitive coding + speedcoding + gaming, built with Next.js & Docker  
-- Tons of GenAI & LLM tinkering behind the scenes  
+<div align="center">
+&nbsp;&nbsp; Agentic AI & LLM systems &nbsp;·&nbsp; Distributed system architecture &nbsp;·&nbsp; Theoretical physics &nbsp;·&nbsp; Speculative-fiction worldbuilding &nbsp;·&nbsp; Philosophy & theology &nbsp;·&nbsp; Game & simulation design
+</div>
 
- 
+<br/>
 
-## ⚡ Tech I Work With  
+### 🐍 Snake, eating my commits
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FFB703?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CaptainAlpha04/CaptainAlpha04/output/github-contribution-grid-snake.svg" width="100%" alt="snake game eating contribution graph"/>
+</div>
 
- 
+<br/>
 
-## 📚 Interests  
+### 📊 Signal
 
-- 🌳 Nature, hiking, trees > malls  
-- 📖 Devouring books — Fantasy, philosophy, history, politics, and anything offbeat  
-- 🎙️ Open-source advocacy, AI ethics discussions, tech-for-good  
-- 🛸 Astrophysics and quantum physics on sleepless nights  
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&hide_border=true&theme=radical&bg_color=0a0420&title_color=7c5cff&icon_color=9be8ff&text_color=d9d4ff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&hide_border=true&theme=radical&bg_color=0a0420&title_color=7c5cff&text_color=d9d4ff"/>
+</div>
 
- 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainAlpha04&hide_border=true&background=0a0420&ring=7c5cff&fire=ffb454&currStreakLabel=d9d4ff"/>
+</div>
 
-## 📈 Stats and Streaks  
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainAlpha04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0420,100:1b0f3d&height=90&section=footer"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainAlpha04&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAlpha04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
- 
-
-## 📈 Visitor Counter & Quote of the Day  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaptainAlpha04&label=👀%20Profile%20Views&color=brightgreen&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
-</p>
-
- 
-
-## 🔗 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://ali.sparkchapter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-</p>
-
- 
-
-## ⚡ Fun Fact  
-
-I can explain the **Schrödinger's cat paradox** while successfully losing my socks in parallel universes.
-
- 
-
-<!-- Footer GIF vibe -->
-<img src="https://i.pinimg.com/originals/df/57/08/df5708a912f597428f2ffcfaf72e8571.gif" width="100%"/>
