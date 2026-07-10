@@ -56,7 +56,7 @@ $ whoami
 ### 🐍 Snake, eating my commits
 
 <div align="center">
-  <img src="https://github.com/CaptainAlpha04/captainalpha04/blob/output/github-contribution-grid-snake.svg" 
+  <img src="https://github.com/CaptainAlpha04/captainalpha04/blob/output/github-contribution-grid-snake-dark.svg" 
   width="100%" alt="snake game eating contribution graph"/>
 </div>
 
