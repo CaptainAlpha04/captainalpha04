@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070312"/>
+      <stop offset="55%" stop-color="#160a30"/>
+      <stop offset="100%" stop-color="#0a0420"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="230" fill="url(#bg)"/>
+  
+    <rect x="10" y="10" width="880" height="210" fill="#0a0420" stroke="#7c5cff" stroke-width="3"/>
+    <line x1="12" y1="12" x2="888" y2="12" stroke="#2a1a5e" stroke-width="2"/>
+    <line x1="12" y1="12" x2="12" y2="218" stroke="#2a1a5e" stroke-width="2"/>
+    <line x1="888" y1="12" x2="888" y2="218" stroke="#05020e" stroke-width="2"/>
+    <line x1="12" y1="218" x2="888" y2="218" stroke="#05020e" stroke-width="2"/>
+    <text x="26" y="36" font-family="'Courier New', monospace" font-size="11" letter-spacing="2" fill="#ffb454">&gt; cat /crew/pilot_dossier.log</text>
+  <text x="30" y="66" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#f5f3ff">CALLSIGN: CAPTAIN ALPHA04</text><text x="30" y="88" font-family="'Courier New', monospace" font-size="13" fill="#7c5cff">ROLE: AI-NATIVE SYSTEMS ARCHITECT &#183; CLEARANCE LV.23</text>
+    <text x="30" y="122" font-family="'Courier New', monospace" font-size="10" fill="#9be8ff">NAV / AGENTIC SYS</text>
+    <rect x="180" y="112" width="410" height="14" fill="#1b0f3d" stroke="#05020e" stroke-width="2"/>
+    <rect x="180" y="112" width="377" height="14" fill="#7c5cff"/>
+  
+    <text x="30" y="146" font-family="'Courier New', monospace" font-size="10" fill="#9be8ff">HULL / ARCHITECTURE</text>
+    <rect x="180" y="136" width="410" height="14" fill="#1b0f3d" stroke="#05020e" stroke-width="2"/>
+    <rect x="180" y="136" width="361" height="14" fill="#9be8ff"/>
+  
+    <text x="30" y="170" font-family="'Courier New', monospace" font-size="10" fill="#9be8ff">THRUSTERS / FULL-STACK</text>
+    <rect x="180" y="160" width="410" height="14" fill="#1b0f3d" stroke="#05020e" stroke-width="2"/>
+    <rect x="180" y="160" width="390" height="14" fill="#ffb454"/>
+  
+    <text x="30" y="194" font-family="'Courier New', monospace" font-size="10" fill="#9be8ff">SENSORS / HAR RESEARCH</text>
+    <rect x="180" y="184" width="410" height="14" fill="#1b0f3d" stroke="#05020e" stroke-width="2"/>
+    <rect x="180" y="184" width="287" height="14" fill="#7c5cff"/>
+  
+    <g transform="translate(790,125)">
+      <circle cx="0" cy="0" r="16" fill="#d9d4ff"/>
+      <circle cx="0" cy="0" r="11" fill="#0a0420" stroke="#9be8ff" stroke-width="2"/>
+      <circle cx="-3" cy="-2" r="2.4" fill="#9be8ff">
+        <animate attributeName="opacity" values="1;0.1;1" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+      <rect x="-14" y="14" width="28" height="26" rx="4" fill="#7c5cff"/>
+      <rect x="-20" y="16" width="8" height="18" rx="3" fill="#d9d4ff"/>
+      <rect x="12" y="16" width="8" height="18" rx="3" fill="#d9d4ff"/>
+      <rect x="-9" y="40" width="8" height="14" fill="#f5f3ff"/>
+      <rect x="1" y="40" width="8" height="14" fill="#f5f3ff"/>
+    </g>
+  
+</svg>
