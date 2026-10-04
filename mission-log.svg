@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070312"/>
+      <stop offset="55%" stop-color="#160a30"/>
+      <stop offset="100%" stop-color="#0a0420"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="220" fill="url(#bg)"/>
+  
+    <rect x="10" y="10" width="880" height="200" fill="#0a0420" stroke="#7c5cff" stroke-width="3"/>
+    <line x1="12" y1="12" x2="888" y2="12" stroke="#2a1a5e" stroke-width="2"/>
+    <line x1="12" y1="12" x2="12" y2="208" stroke="#2a1a5e" stroke-width="2"/>
+    <line x1="888" y1="12" x2="888" y2="208" stroke="#05020e" stroke-width="2"/>
+    <line x1="12" y1="208" x2="888" y2="208" stroke="#05020e" stroke-width="2"/>
+    <text x="26" y="36" font-family="'Courier New', monospace" font-size="11" letter-spacing="2" fill="#ffb454">&gt; cat /var/log/mission.log</text>
+  <text x="30" y="64" font-family="'Courier New', monospace" font-size="12" fill="#d9d4ff">[LOG 001] Shipped product -&gt; $100K+ revenue within 90 days of launch</text><text x="30" y="92" font-family="'Courier New', monospace" font-size="12" fill="#d9d4ff">[LOG 002] Built from zero x3 ventures, solo founding engineer each time</text><text x="30" y="120" font-family="'Courier New', monospace" font-size="12" fill="#d9d4ff">[LOG 003] Published golem-graph to the npm registry</text><text x="30" y="148" font-family="'Courier New', monospace" font-size="12" fill="#d9d4ff">[LOG 004] Simulated 100+ parallel agents modeling live market dynamics</text><text x="30" y="176" font-family="'Courier New', monospace" font-size="12" fill="#d9d4ff">[LOG 005] Multi-agent framework featured on Google Gemini</text>
+</svg>
