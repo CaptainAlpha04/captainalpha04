@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070312"/>
+      <stop offset="55%" stop-color="#160a30"/>
+      <stop offset="100%" stop-color="#0a0420"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="140" fill="url(#bg)"/>
+  <text x="450" y="55" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" letter-spacing="3" fill="#ffb454">&#9670; CARRIER SIGNAL LOCKED &#9670;</text>
+    <circle cx="400" cy="50" r="4" fill="#9be8ff">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+  
+    <circle cx="450" cy="50" r="4" fill="#9be8ff">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+  
+    <circle cx="500" cy="50" r="4" fill="#9be8ff">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+  <text x="450" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#9be8ff">transmission ends, orbit continues -- thanks for reading, captain</text>
+</svg>
